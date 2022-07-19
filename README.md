@@ -1,3 +1,3 @@
 # Competitive-Programming
 
-This repository contains my solutions to competitive programming questions.
+Each folder is named after a Coding Contest, inside are my solutions to problems from those respective contests.
