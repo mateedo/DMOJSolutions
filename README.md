@@ -1,3 +1,3 @@
-# DMOJ
+# Competitive-Programming
 
-This repository contains my solutions to competitive programming questions uploaded to DMOJ.ca
+This repository contains my solutions to competitive programming questions.
